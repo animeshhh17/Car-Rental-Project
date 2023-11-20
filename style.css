@@ -270,10 +270,15 @@ body {
 #first h2 {
     font-size: 22px;
     padding: 15px 20px;
-    background-color: orangered;
-    color: white;
+    background-color: rgba(239, 236, 236, 0.848);
+    color: black;
     margin-bottom: 10px;
     margin-left: -80px;
+}
+
+#first :hover{
+    background-color: orangered;
+    color: white;
 }
 
 #third h1 {
