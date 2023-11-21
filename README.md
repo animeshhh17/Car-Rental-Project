@@ -1,4 +1,3 @@
-Car Rental Website
 Welcome to the Car Rental Website, a simple and elegant solution for managing car rentals. This project was developed using only HTML, CSS, and JavaScript, without the use of any external frameworks or libraries. It aims to provide a lightweight and customizable platform for car rental businesses.
 
 Features
