@@ -3,3 +3,4 @@ function changeImage(fron){
     img.setAttribute("src",fron);
 }
 
+let data = document.querySelector("#rent");

@@ -54,13 +54,33 @@ body {
     margin-left: 230px;
 }
 
+#center a{
+    color: black;
+    text-decoration: none;
+
+}
+
+#center :hover{
+    color: orangered;
+    cursor: pointer;
+}
+
+
+
 #right {
     font-size: 9px;
     display: flex;
     align-items: center;
     margin-left: 200px;
     gap: 20px;
+    text-decoration: none;
 }
+
+#right :hover{
+    color: orangered;
+    cursor: pointer;
+}
+
 
 #registerb {
     padding: 10px 20px;
@@ -70,6 +90,11 @@ body {
     -webkit-box-shadow: 0px 0px 120px 9px orangered;
     -moz-box-shadow: 0px 0px 120px 9px orangered;
     box-shadow: 0px 0px 120px 9px orangered;
+}
+
+#registerb :hover{
+    font-size: 19px;
+    cursor: pointer;
 }
 
 .page1 {
@@ -233,7 +258,7 @@ body {
 }
 
 #toph {
-    margin-left: 190px;
+    margin-left: 170px;
     text-align: center;
 }
 
@@ -279,6 +304,11 @@ body {
 #first :hover{
     background-color: orangered;
     color: white;
+}
+
+#second img{
+    height: 350px;
+    width: 500px;
 }
 
 #third h1 {
