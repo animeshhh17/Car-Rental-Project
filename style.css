@@ -524,3 +524,31 @@ th {
     height: 350px;
     width: 600px;
 }
+
+@media(max-width: 932px){
+    .wrapper img{
+        display: none;
+    }
+
+    #left img{
+        height: 150px;
+        width: 350px;
+        margin-top: 20px;
+        margin-left: 10px;
+
+    }
+
+    #center{
+        display: none;
+    }
+
+    #right{
+        display: none;
+    }
+
+    #polo{
+        display: none;
+    }
+
+
+}
